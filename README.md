@@ -1,7 +1,7 @@
 # Resume Information Extractor
 
 ## 🎥 Demo Video
-[(https://youtu.be/Ss9x4lQHkns)]
+[(https://youtu.be/DV1aGmTJeso)]
 
 ## 📌 Persona & Problem Statement
 - **Persona:** HR Recruiter processing hundreds of resumes daily.
