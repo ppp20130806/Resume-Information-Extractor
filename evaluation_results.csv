@@ -1,0 +1,26 @@
+id,resume_text,name_true,email_true,skills_true,years_true,ai_name,ai_email,ai_skills,ai_years,name_match,email_match,skills_match,years_match
+1,"姓名：Alice Wong。联系邮箱：alice.wong@example.com。技能：Python, SQL, Tableau。工作经验：4年。",Alice Wong,alice.wong@example.com,Python; SQL; Tableau,4.0,Alice Wong,alice.wong@example.com,"['Python', 'SQL', 'Tableau']",4.0,True,True,False,True
+2,我是 Bob。我的邮箱是 bob@test.com。我喜欢 Java 和 C++。找一份开发工作。,Bob,bob@test.com,Java; C++,,Bob,bob@test.com,Java; C++,,True,True,True,True
+3,资深营销经理，拥有10年经验。擅长项目管理、沟通和 Excel。邮箱：mkt.manager@corp.com。名字是 Sarah Lee。,Sarah Lee,mkt.manager@corp.com,Excel; 项目管理,10.0,Sarah Lee,mkt.manager@corp.com,项目管理; 沟通; Excel,10.0,True,True,False,True
+4,David，2018 年开始工作。熟悉 AWS 和 Docker。邮箱 david@dev.io。,David,david@dev.io,AWS; Docker,,David,david@dev.io,AWS; Docker,,True,True,True,True
+5,招聘人员注意：请致电 123-456，邮箱 hr@company.com。熟练使用 Power BI。,,hr@company.com,Power BI,,,hr@company.com,['Power BI'],,True,True,False,True
+6,My name is Tom. I have 5 years of experience. I know Python and SQL. Email: tom.cat@gmail.com.,Tom,tom.cat@gmail.com,Python; SQL,5.0,Tom,tom.cat@gmail.com,Python;SQL,5.0,True,True,False,True
+7,王小明的邮箱是 wangxm@test.com，他有3年工作经验，精通 Excel 和 PPT。,王小明,wangxm@test.com,Excel; PPT,3.0,王小明,wangxm@test.com,Excel; PPT,3.0,True,True,True,True
+8,联系我：jessica@mail.com。我刚毕业，会一点 HTML 和 CSS。我是 Jessica。,Jessica,jessica@mail.com,HTML; CSS,0.0,Jessica,jessica@mail.com,HTML; CSS,,True,True,True,False
+9,"名字：李雷。邮箱：lilei@test.com。技能：Java, Spring Boot, MySQL。工作年限：5年。",李雷,lilei@test.com,Java; Spring Boot; MySQL,5.0,李雷,lilei@test.com,Java; Spring Boot; MySQL,5.0,True,True,True,True
+10,"Hi, I'm Emily. I have worked for 2 years. Skills: Communication, Leadership, Figma. Reach me at emily.design@work.com.",Emily,emily.design@work.com,Figma,2.0,Emily,emily.design@work.com,Communication;Leadership;Figma,2.0,True,True,False,True
+11,陈大文，邮箱是 chendawen@mail.com。老程序员，有10年经验，主要写 C++ 和 Go。,陈大文,chendawen@mail.com,C++; Go,10.0,陈大文,chendawen@mail.com,C++;Go,10.0,True,True,False,True
+12,"Contact: john.doe@test.com. Name: John Doe. Skills: Sales, Marketing, CRM. Experience: 7 years.",John Doe,john.doe@test.com,Sales; Marketing; CRM,7.0,John Doe,john.doe@test.com,Sales; Marketing; CRM,7.0,True,True,True,True
+13,我是赵敏，邮箱 zhaomin@test.com。做人力资源3年，熟悉招聘和员工关系。,赵敏,zhaomin@test.com,招聘; 员工关系,3.0,赵敏,zhaomin@test.com,招聘;员工关系,3.0,True,True,False,True
+14,No email provided. My name is Mike. I have no work experience. I know how to use Word.,Mike,,Word,,Mike,,Word,0.0,True,True,True,False
+15,王芳，wangfang@test.com，拥有8年财务经验。擅长 Excel 和 SAP。,王芳,wangfang@test.com,Excel; SAP,8.0,王芳,wangfang@test.com,"['Excel', 'SAP']",8.0,True,True,False,True
+16,"Hi, my name is John Smith. You can reach me at john.smith@example.com. I have 5 years of experience in software development, proficient in Python and Django.",John Smith,john.smith@example.com,Python; Django,5.0,John Smith,john.smith@example.com,Python; Django,5.0,True,True,True,True
+17,My name is Emma Watson. I am a graphic designer with 4 years of experience. I specialize in Adobe Photoshop and Illustrator.,Emma Watson,,Adobe Photoshop; Illustrator,4.0,Emma Watson,,Adobe Photoshop; Illustrator,4.0,True,True,True,True
+18,Reach me at michael.brown@test.com. I have 8 years of experience in sales and CRM. Skills include Salesforce and negotiation.,,michael.brown@test.com,Salesforce; Negotiation,8.0,,michael.brown@test.com,Salesforce; negotiation,8.0,True,True,True,True
+19,"Hi, I'm Sarah. I just graduated. My email is sarah.designs@gmail.com. I know HTML, CSS, and Figma. Eager to learn.",Sarah,sarah.designs@gmail.com,HTML; CSS; Figma,0.0,Sarah,sarah.designs@gmail.com,HTML; CSS; Figma,,True,True,True,False
+20,"David here. david.data@work.com. I've been working with data for over 7 years. Skills: SQL, Python, Tableau, Machine Learning.",David,david.data@work.com,SQL; Python; Tableau; Machine Learning,7.0,David,david.data@work.com,SQL; Python; Tableau; Machine Learning,7.0,True,True,True,True
+21,"Name: Chris Evans | Email: chris.evans@avengers.com | Exp: 10 years | Skills: Acting, Stunt Driving",Chris Evans,chris.evans@avengers.com,Acting; Stunt Driving,10.0,Chris Evans,chris.evans@avengers.com,Acting; Stunt Driving,10.0,True,True,True,True
+22,Contact Lisa at lisa@company.com. I have 3 years of experience in customer service. I am a fast learner.,Lisa,lisa@company.com,Customer Service,3.0,Lisa,lisa@company.com,customer service; fast learner,3.0,True,True,False,True
+23,<div>Name: Alex Johnson</div><div>Email: alex.j@tech.com</div><div>4 years experience in IT support.</div>,Alex Johnson,alex.j@tech.com,IT Support,4.0,Alex Johnson,alex.j@tech.com,IT support,4.0,True,True,True,True
+24,"Hello, I am Rachel. Reach me at rachel.green@email.com. I have a few years of experience. I can do Java, C++, Ruby, and Swift.",Rachel,rachel.green@email.com,Java; C++; Ruby; Swift,,Rachel,rachel.green@email.com,Java; C++; Ruby; Swift,,True,True,True,True
+25,my name is danny. contact danny.boy@test.com. i have 2 years of experience. i know excel and word.,Danny,danny.boy@test.com,Excel; Word,2.0,danny,danny.boy@test.com,excel; word,2.0,True,True,True,True
