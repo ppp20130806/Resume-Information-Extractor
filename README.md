@@ -42,6 +42,6 @@
 5. Run evaluation block to calculate accuracy and apply Guardrails.
 
 ## 📂 Evaluations Explainer
-- `evaluation_v1_strict.csv`: Strict string matching (52%).
-- `evaluation_v2_smart.csv`: Normalized/set-based matching (84%).
-- `evaluation_final_v3_guardrails.csv`: Added Guardrails (88%, Skills 100%).
+- `evaluation_results.csv`: Strict string matching (52%).
+- `evaluation_results_v2.csv`: Normalized/set-based matching (84%).
+- `evaluation_results_v3.csv`: Added Guardrails (88%, Skills 100%).
